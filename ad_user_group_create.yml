@@ -1,0 +1,5 @@
+---
+
+- hosts: windows
+  roles:
+    - win_add_user
